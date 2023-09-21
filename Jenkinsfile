@@ -8,6 +8,7 @@ pipeline {
             steps{
                 script{
                     shared()            // shared library groovy file name in vars
+                    shared.printName('Pinkesh')
                 }
             }
         }
