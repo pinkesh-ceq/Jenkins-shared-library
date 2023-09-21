@@ -1,3 +1,7 @@
-def printName(name){
-    echo "HELLO my name is ${name}"
+def printName(name) {
+  echo "My name is ${name}"
+}
+
+def welcome(note) {
+  echo "${note}"
 }
