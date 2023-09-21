@@ -1,4 +1,4 @@
-@Library ('Pinkesh-shared-library')_
+@Library('Pinkesh-shared-library')_
 pipeline {
     agent any
 
